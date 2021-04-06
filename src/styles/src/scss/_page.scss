@@ -1,0 +1,16 @@
+input[type="color"] {
+  width: 6rem;
+  height: 5rem;
+  padding: 0 0.2rem;
+  display: initial;
+}
+
+input[type="file"] {
+  width: 15rem;
+  display: inline;
+  border: none;
+}
+
+.page {
+  min-height: 100vh;
+}
