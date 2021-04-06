@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/affinity-sprite-sheet-generator/static/css/main.49b30ca1.chunk.css",
+    "main.js": "/affinity-sprite-sheet-generator/static/js/main.2fcbfbb3.chunk.js",
+    "main.js.map": "/affinity-sprite-sheet-generator/static/js/main.2fcbfbb3.chunk.js.map",
+    "runtime-main.js": "/affinity-sprite-sheet-generator/static/js/runtime-main.8ff23f06.js",
+    "runtime-main.js.map": "/affinity-sprite-sheet-generator/static/js/runtime-main.8ff23f06.js.map",
+    "static/css/2.658248ec.chunk.css": "/affinity-sprite-sheet-generator/static/css/2.658248ec.chunk.css",
+    "static/js/2.2ba48661.chunk.js": "/affinity-sprite-sheet-generator/static/js/2.2ba48661.chunk.js",
+    "static/js/2.2ba48661.chunk.js.map": "/affinity-sprite-sheet-generator/static/js/2.2ba48661.chunk.js.map",
+    "static/js/3.c1fafd1a.chunk.js": "/affinity-sprite-sheet-generator/static/js/3.c1fafd1a.chunk.js",
+    "static/js/3.c1fafd1a.chunk.js.map": "/affinity-sprite-sheet-generator/static/js/3.c1fafd1a.chunk.js.map",
+    "index.html": "/affinity-sprite-sheet-generator/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/affinity-sprite-sheet-generator/static/css/2.658248ec.chunk.css.map",
+    "static/css/main.49b30ca1.chunk.css.map": "/affinity-sprite-sheet-generator/static/css/main.49b30ca1.chunk.css.map",
+    "static/js/2.2ba48661.chunk.js.LICENSE.txt": "/affinity-sprite-sheet-generator/static/js/2.2ba48661.chunk.js.LICENSE.txt",
+    "static/media/logo.96c68b37.svg": "/affinity-sprite-sheet-generator/static/media/logo.96c68b37.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ff23f06.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.2ba48661.chunk.js",
+    "static/css/main.49b30ca1.chunk.css",
+    "static/js/main.2fcbfbb3.chunk.js"
+  ]
+}
